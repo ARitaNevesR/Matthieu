@@ -395,7 +395,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 20rem;
+    width: 15rem;
     height: 7rem;
     padding: 0.5rem 2rem 2rem;
     background-color: var(--dark-theme);
