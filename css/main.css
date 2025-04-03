@@ -515,10 +515,20 @@ body {
         height: 20rem;
     }
 
-    .tab-content-note, .tab-content-german{
+    .tab-content-german{
         width: 50vw;
         height: 20rem;
     }
+
+    .tab-content-note{
+        width: 70vw;
+        height: 20rem;
+    }
+
+    .tab-content-note{
+        padding: 1.1rem;
+    }
+
 
     .modal-content2{
         height: 30rem;
